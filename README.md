@@ -16,10 +16,6 @@ A web-based tool that uses machine learning to detect phishing emails in real-ti
 - Pandas, TfidfVectorizer
 - HTML/CSS (Jinja templating)
 
-## 🖼️ Interface
-<img src="screenshots/input.png" width="500">
-<img src="screenshots/result.png" width="500">
-
 ## 🚀 How to Run It Locally
 
 1. Clone this repo:
